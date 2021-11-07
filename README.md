@@ -1,7 +1,7 @@
 # Viz-Aus-Life-Industry-Stats
 This repository provides some visualisations of the APRA life industry stats in Tableau, including examples of radial bar charts.
 
-Link here: 
+Link here: https://pat-reen.github.io/Viz-Aus-Life-Industry-Stats/
 
 Link to the final viz: https://public.tableau.com/views/AustralianLifeInsuranceReporting/LifeStats?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 
